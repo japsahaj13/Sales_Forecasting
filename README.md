@@ -1,5 +1,5 @@
-**Enhancing Retail Operations with Advanced Sales Forecasting
-**
+Enhancing Retail Operations with Advanced Sales Forecasting
+
 Project Overview
 We completed a groundbreaking project dedicated to enhancing retail operations for Corporación Favorita, a cherished grocery store chain in Ecuador. Our focus was on elevating sales forecasting to new heights using advanced machine learning techniques.
 
