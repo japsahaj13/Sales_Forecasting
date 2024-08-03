@@ -16,7 +16,9 @@ Test RMSLE: 0.5158
 Model Comparison:
 Our results set a new standard for forecasting precision in retail, outperforming other models tested:
 LSTM: Validation RMSLE 0.75, Test RMSLE 0.6109
+
 MLP Regression and XGBoost Hybrid: Validation RMSLE 0.0180, Test RMSLE 0.7568
+
 Linear Regression: Validation RMSLE 0.5488, Test RMSLE 0.7568
 
 Results and Achievements:
